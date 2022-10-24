@@ -1,0 +1,37 @@
+<HTML>
+
+<TITLE>
+    CV Radu Vlad-Mihai
+</TITLE>
+
+<h1 style="font-family:'Trebuchet MS'; color:dimgray; ">Radu Vlad-Mihai</h1>
+<h3 style="color:coral; font-family:'Trebuchet MS'; height:50px;">Student al Facultatii De Litere din cadrul UNITBV</h3>
+
+<BODY style="background-color:cornsilk">
+
+    <h1 style="border:solid; width:1550px; color:dimgray"></h1> <!--delimitarea dintre categorii-->
+
+    <table style="width: 400px; height:200px;">
+        <th style="font-family:'Trebuchet MS'; ;">
+            <u>E-mail:</u> vlad-mihai.radu@student.unitbv.ro <br /><br /><u>Aptitudini:</u> Sunt un om perseverent, imi place sa ma inconjor de persoane
+            de la care pot invata lucruri, prefer sa fiu in miscare continua, sa-mi tin creierul incontinuu
+            in miscare. Ceea ce cred ca ma defineste ca persoana, si pe care o consider o aptitudine de a mea, este faptul ca
+            sunt comunicativ, reusesc sa lucrez cu orice tip de persoana, fara sa-mi poata pune probleme vreun complex legat de
+            faptul ca sunt introvertit.<br /><br /><u>De ce imi doresc sa aplic:</u> Deoarece acest job mi se pare unul potrivit pentru
+            ceea ce imi doresc sa fac pe viitor, oferindu-mi un bun start pentru cariera mea profesionala, fiind un loc unde pot cunoaste diferite
+            tipuri de oameni, facandu-mi o experienta vasta ce ma va ajuta pe viitor.
+        </th>
+
+    </table>
+
+    <h1 style="border:solid; width:1550px; color:dimgray"></h1> <!--delimitarea dintre categorii-->
+
+    <table style="width:400px; height:200px;">
+        <th style="font-family:'Trebuchet MS';">
+            <u>Experienta profesionala:</u><br /> Momentan nu detin experienta profesionala, deoarece sunt proaspat absolvent al facultatii de litere.
+        </th>
+
+
+
+</BODY>
+</HTML>
